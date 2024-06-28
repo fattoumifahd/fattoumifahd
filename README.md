@@ -40,7 +40,7 @@ I'm always looking to expand my knowledge and skills. Currently, I'm delving dee
   - Implemented RESTful APIs and integrated third-party services.
 
 ## 📈 GitHub Stats
-![Fahd's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Fahd's GitHub stats](https://github-readme-stats.vercel.app/api?username=fattoumifahd&show_icons=true&theme=radical)
 
 ## 📝 Recent Projects
 - **[Project 1](https://github.com/your-github-username/project-1)**: Brief description of the project.
