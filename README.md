@@ -30,20 +30,17 @@ I'm always looking to expand my knowledge and skills. Currently, I'm delving dee
 - Cloud Technologies (AWS, Azure)
 
 ## 💼 Work Experience
-- **Full Stack Developer** at [Your Company](https://your-company-website.com) (Month Year - Present)
+- **Full Stack Developer** at [ISTA](https://your-company-website.com) (2023)
   - Developed and maintained web applications using React.js and Node.js.
   - Worked on database management using SQL Server, Oracle Databases, and MySQL.
 
-- **Backend Developer** at [Previous Company](https://previous-company-website.com) (Month Year - Month Year)
-  - Built and maintained backend services using Flask, PHP, and Laravel.
-  - Implemented RESTful APIs and integrated third-party services.
 
 ## 📈 GitHub Stats
 ![Fahd's GitHub stats](https://github-readme-stats.vercel.app/api?username=fattoumifahd&show_icons=true&theme=radical)
 
 ## 📝 Recent Projects
-- **[Project 1](https://github.com/fattoumifahd/PFA)**: Brief description of the project.
-- **[Project 2](https://github.com/fattoumifahd/PFF)**: Brief description of the project.
+- **[Rsetaurant Project](https://github.com/fattoumifahd/PFA)**: Brief description of the project.
+- **[Hotel project](https://github.com/fattoumifahd/PFF)**: Brief description of the project.
 
 
 Feel free to reach out if you have any questions or just want to connect!
