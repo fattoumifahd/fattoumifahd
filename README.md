@@ -20,9 +20,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with experti
 - **MySQL**
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-twitter/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fahdfattoumi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fattoumifahd@gmail.com)
 
 ## 🌱 Currently Learning
 I'm always looking to expand my knowledge and skills. Currently, I'm delving deeper into:
@@ -43,14 +42,9 @@ I'm always looking to expand my knowledge and skills. Currently, I'm delving dee
 ![Fahd's GitHub stats](https://github-readme-stats.vercel.app/api?username=fattoumifahd&show_icons=true&theme=radical)
 
 ## 📝 Recent Projects
-- **[Project 1](https://github.com/your-github-username/project-1)**: Brief description of the project.
-- **[Project 2](https://github.com/your-github-username/project-2)**: Brief description of the project.
-- **[Project 3](https://github.com/your-github-username/project-3)**: Brief description of the project.
+- **[Project 1](https://github.com/fattoumifahd/PFA)**: Brief description of the project.
+- **[Project 2](https://github.com/fattoumifahd/PFF)**: Brief description of the project.
 
-## 📚 Blog Posts
-- [Blog Post 1](https://your-blog-url.com/post-1)
-- [Blog Post 2](https://your-blog-url.com/post-2)
-- [Blog Post 3](https://your-blog-url.com/post-3)
 
 Feel free to reach out if you have any questions or just want to connect!
 
