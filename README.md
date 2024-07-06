@@ -39,7 +39,7 @@ I'm always looking to expand my knowledge and skills. Currently, I'm delving dee
 ![Fahd's GitHub stats](https://github-readme-stats.vercel.app/api?username=fattoumifahd&show_icons=true&theme=radical)
 
 ## 📝 Recent Projects
-- **[Rsetaurant Project](https://github.com/fattoumifahd/PFA)**: Brief description of the project.
+- **[Rsetaurant Project](https://github.com/fattoumifahd/Restaurant)**: Brief description of the project.
 - **[Hotel project](https://github.com/fattoumifahd/PFF)**: Brief description of the project.
 
 
